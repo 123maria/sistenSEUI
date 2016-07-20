@@ -1,0 +1,145 @@
+*{
+    -webkit-box-sizing: border-box;
+   -moz-box-sizing: border-box;
+   box-sizing: border-box;
+}
+body {
+    background:#E7FEFF;
+}
+.contenedor{
+    width: 70%;
+    padding-bottom: 100px;
+    background:#DBE9F4;
+ 
+    box-shadow: 0px 0px 6px grey;
+    height: auto;
+    margin-left: 150px;
+    margin-top: 10px;
+    
+}
+#cotainer{
+    width: 90%;
+    padding-bottom: 40px;
+    background:#DBE9F4;
+ 
+    box-shadow: 0px 0px 6px grey;
+    height: auto;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#imagen{
+    margin: 10px;
+    
+  float: left;
+     
+}
+#login{
+    margin: 25px;
+    width: 50%;
+   float: right;
+}
+
+
+h3{
+    margin: 25px;
+   margin-left: 60px;
+}
+#informaciong{
+  
+    width: 98%;
+     padding: 10px;   
+     box-shadow: 0px 0px 2px #A9A9A9;
+       margin: 10px;
+}
+#estudiante{
+
+    width: 100%;
+    padding: 10px;   
+     box-shadow: 0px 0px 4px #A9A9A9;
+         margin: 3px;
+}
+#boton{
+    float: left;
+}
+#nombres{
+    float: left;
+    width: 46%;
+}
+#evaluacion{
+   width: 98%;
+    padding: 10px;   
+     box-shadow: 0px 0px 2px #A9A9A9;
+         margin: 10px; 
+         height: auto;
+    
+}
+#botones{
+    float: right;
+    margin-right: 75px;
+}
+#infoactal{
+    padding: 70px;
+}
+
+#peso{
+   float: left;
+}
+#radio1{
+    float: left;
+    margin-left: 95px;
+}
+#parte2{
+    float: right;
+    width: 50%;
+}
+#radio2{
+    float: left;
+    margin-left: 20px;
+}
+#parte1{
+    float: left;
+    width: 50%;
+}
+#contenido1{
+    float: left;
+    width: 25%;
+}
+#contenido2{
+    float: left;
+    width: 25%;
+}
+#contenido3{
+    float: left;
+    width: 25%;
+}
+#contenido4{
+    float: left;
+    width: 25%;
+}
+
+
+
+#conte1{
+    float: left;
+    width: 45%;
+}
+#conte2{
+    float: left;
+    width: 15%;
+}
+#conte3{
+    float: left;
+    width: 15%;
+}
+#conte4{
+     float: left;
+    width: 15%; 
+}
+#contenidos1{
+    float: left;
+    width: 70%;
+}
+#imagenlogin{
+    float: left;
+    margin-right: 40px;
+}
